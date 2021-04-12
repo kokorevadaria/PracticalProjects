@@ -14,4 +14,4 @@
 | :-----------------------------------------------------------------| :-------------------------------------------------- | :------------------------------------------------|
 | [Прогнозирование вероятности оттока пользователей фитнес-центра](https://github.com/kokorevadaria/PracticalProjects/tree/main/forecasting)    | Прогноз оттока, сегментация клиентов фитнес-центра  | pandas, matplotlib, seaborn, scikit-learn        |
 | [Анализ пользователей мобильного приложения](https://github.com/kokorevadaria/PracticalProjects/tree/main/ab_tests)                        | Проведение a/a/b тестов                             | pandas, matplotlib, numpy, seaborn, plotly, scipy| 
-| Создание дашборда по пользовательским событиям для Яндекс.Дзен    | Анализ популярных тем на Яндекс.Дзен                | Tableau,  PowerPoint                             |
+| [Создание дашборда по пользовательским событиям для Яндекс.Дзен](https://github.com/kokorevadaria/PracticalProjects/tree/main/zen_yandex)    | Анализ популярных тем на Яндекс.Дзен                | Tableau,  PowerPoint                             |
